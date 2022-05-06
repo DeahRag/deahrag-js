@@ -1,7 +1,7 @@
 <div align="center">
 	<br />
 	<p>
-		<a href="https://discord.js.org"><img src="https://discord.js.org/static/logo.svg" width="546" alt="discord.js" /></a>
+		<a href="https://discord.js.org"><img src="https://media.discordapp.net/attachments/895003875147391007/972270754823569428/deahrag-npm-removebg-preview.png?width=554&height=254" width="546" alt="discord.js" /></a>
 	</p>
 	<br />
 		<p>
