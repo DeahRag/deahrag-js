@@ -23,7 +23,7 @@ Here are some examples and the utilities you can find in this package:
 ## Links
 
 - [Website](https://deahrag.ml) ([source](https://github.com/deahrag/deahrag-js))
-- [discord.js Discord server](https://discord.gg/djs)
+- [Discord server](https://discord.gg/tb67pMf2JA)
 - [npm](https://www.npmjs.com/package/deahrag-js)
 
 ## Contributing
