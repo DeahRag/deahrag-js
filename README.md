@@ -31,4 +31,4 @@ Here are some examples and the utilities you can find in this package:
 ## Help
 
 If you don't understand something in the documentation, you are experiencing problems, or you just need a gentle
-nudge in the right direction, please don't hesitate to join our official [discord.js Server](https://discord.gg/tb67pMf2JA).
+nudge in the right direction, please don't hesitate to join our official [deahrag-js Server](https://discord.gg/tb67pMf2JA).
